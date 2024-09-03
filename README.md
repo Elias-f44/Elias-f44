@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Elias!
 
 ##About Me
+
 -🔭I am currently working on a windows app using C# and MYSQL
 - 🌱 I’m currently learning C# and MYSQL
 - 👯 I’m looking to collaborate on an AI or Fullstack project
