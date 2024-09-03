@@ -8,6 +8,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love soccer, reading books, and working out
 
+### Experience
+- Undergraduate Student Researcher (NSERC USRA) @ Queen's University
+- Web Developer @ NextRipple
+
+### My Skills
+- **Languages**: Python, Java, C, C++, C#, JavaScript, CSS, SQL, Bash
+- **Frameworks**: React, Django, .NET
+- **Other**: Git, GitHub
+
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/elias-frigui-680b51263/)
 
