@@ -10,9 +10,8 @@
 
 ### Experience
 - Undergraduate Student Researcher (NSERC USRA) @ Queen's University
-- Web Developer @ NextRipple
+- Software Developer @ NextRipple
 
-### My Skills
 ### My Skills
 
 **Languages:**
