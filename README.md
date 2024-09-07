@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I love soccer, reading books, and working out
 
 ### Experience
+- Windows App Developer @ MedConnect
 - Undergraduate Student Researcher (NSERC USRA) @ Queen's University
 - Software Developer @ NextRipple
 
